@@ -1,0 +1,21 @@
+h2{
+color: blue;
+border: 3px solid gray;
+height: 100px ;
+width: 200px;
+display: flex;
+/* justify-content: center;
+ */
+/* align-items: flex-end; */
+
+/* justify-content: end; */
+
+flex-wrap: wrap;
+
+}
+
+
+
+
+
+
