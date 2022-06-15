@@ -40,7 +40,10 @@ var newA = userList.map(function(v){
 });
  
 
-console.log(newA);
+
+
+
+console.log(newAaa);
 
 
 
